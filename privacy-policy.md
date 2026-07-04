@@ -1,18 +1,9 @@
 # Privacy Policy — FaceMetrics
-
-> **TEMPLATE — not legal advice.** Fill in the placeholders and have it reviewed
-> before publishing. Host it and link the URL in `LegalUrls.PRIVACY`.
-
 _Last updated: 2 July 2026_
 
 ## 1. Who we are (Controller)
 Marne Kismann, contact: marne.kismann@gmail.com. This is the controller
 responsible for data processing under the EU GDPR (DSGVO).
-
-> **Note:** German law (§5 DDG/TMG Impressum) generally requires a physical
-> postal address for a publicly distributed app/website. An email alone may not
-> be sufficient. Add a postal address (or a c/o / service address) before public
-> release.
 
 ## 2. The short version
 - Your **photos are processed entirely on your device** and are **never uploaded,
