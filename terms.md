@@ -1,8 +1,5 @@
 # Terms of Use — FaceMetrics
 
-> **TEMPLATE — not legal advice.** Fill in the placeholders and have it reviewed
-> before publishing. Host it and link the URL in `LegalUrls.TERMS`.
-
 _Last updated: 2 July 2026_
 
 ## 1. Acceptance
@@ -48,7 +45,7 @@ The app, its design, and its content are owned by Marne Kismann. You may not cop
 reverse engineer, or redistribute it except as permitted by law.
 
 ## 8. Privacy
-Your use is also governed by our Privacy Policy (see `docs/privacy-policy.md`).
+Your use is also governed by our Privacy Policy (see `privacy-policy.md`).
 
 ## 9. Changes & termination
 We may update these Terms or discontinue the app at any time. Continued use after
